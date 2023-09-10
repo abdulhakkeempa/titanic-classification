@@ -6,7 +6,7 @@ https://www.kaggle.com/competitions/titanic/
 
 ## Results
 
-| Algorithm | Scaled | Accuracy | Precision | Recall | Kaggle Score |
+| Algorithm | Scaled | Accuracy | Precision (0,1) | Recall (0,1) | Kaggle Score |
 | :---:         |     :---:      |      :---:      |      :---:      | :---:      |   :---: |
-| Logistic Regression  | StandardScaler     | 0.7847    | 0-0.85, 1-0.69 | 0-0.81, 1-0.74 | 0.7488
-| Logistic Regression (One-Hot Encoded) | StandardScaler     | 0.7802    | 0-0.82, 1-0.71 | 0-0.82, 1-0.72 | 0.76315
+| Logistic Regression  | StandardScaler     | 0.7847    | 0.85, 0.69 | 0.81, 0.74 | 0.7488
+| Logistic Regression (One-Hot Encoded) | StandardScaler     | 0.7802    | 0.82, 0.71 | 0.82, 0.72 | 0.76315
