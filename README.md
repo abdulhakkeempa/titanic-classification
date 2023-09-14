@@ -12,3 +12,4 @@ https://www.kaggle.com/competitions/titanic/
 | Logistic Regression (One-Hot Encoded) | StandardScaler     | 0.7802    | 0.82, 0.71 | 0.82, 0.72 | 0.76315
 | Support Vector Classifer (Polynomial Kernel) | MinMaxScaler     | 0.798    | 0.88, 0.67 | 0.81, 0.77 | 0.77990
 | Decision Tree Classifier| MinMaxScaler     | 0.730    | 0.62, 0.85 | 0.80, 0.69 | 0.71052
+| Decision Tree Classifier (Pre-Pruned)| MinMaxScaler     | 0.770    | 0.93, 0.51 | 0.75, 0.83 | 0.7703
